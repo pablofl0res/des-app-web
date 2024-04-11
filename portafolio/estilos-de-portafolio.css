@@ -1,6 +1,11 @@
 p {
     color: rgb(79, 44, 4) 
 }
+  
+h1{font-size: 80px;
+padding: 40px 70px 40px;
+text-align: center;
+}
 
 body {
     background-color: rgb(233, 255, 229);
